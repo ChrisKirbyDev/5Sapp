@@ -1,8 +1,9 @@
 .block-wrap {
     text-align: center;
+    margin-top: 5%;
 
     &__box {        
-        background-color: rgba(67, 182, 73, 1);
+        background-color: rgba(18, 228, 28, 0.9);
         height: 50%;
         width: 50%;
         transform: translateX(50%);

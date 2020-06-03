@@ -1,14 +1,9 @@
 .site-header {
-    position: flex;
-    padding: 10px 0;    
-    width: 100%;
-    background-color: black;
+    position: absolute;
+    background-color: $mainBlack;
 
     &__logo img {
-        position: flex;        
-        left: auto;  
         max-height: 15%;    
-        max-width: 15%;   
-        margin: 3% 3%;  
+        max-width: 15%;
     }
 }
