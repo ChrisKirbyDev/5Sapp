@@ -1,0 +1,8 @@
+.btn {
+    background-color: #fff;
+    color: $mainBlack;
+    text-decoration: none;
+    padding: .75rem 1.2rem;
+    display: block;
+    margin: .75rem 1.2rem;
+}

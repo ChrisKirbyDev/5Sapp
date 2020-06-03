@@ -1,17 +1,17 @@
 .bau {
-    font-size: 1rem;
+    text-align: center;
+
+    &__box {        
+        background-color: #43b649;
+        height: 50%;
+        width: 50%;
+        transform: translateX(50%);
+    }
+
+    &__title {       
+
+
+    }
+
 }
 
-.bau__box {        
-    background-color: green;
-    text-align: center;    
-    width: 50%;
-    top: 50%;    
-    transform: translateX(50%);   
-}
-
-button {
-    font-size: 1rem;
-    padding: 0.625rem;
-    margin: 10px;
-}
