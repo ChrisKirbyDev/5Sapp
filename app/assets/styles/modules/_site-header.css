@@ -1,9 +1,0 @@
-.site-header {
-    position: absolute;
-    background-color: $mainBlack;
-
-    &__logo img {
-        max-height: 15%;    
-        max-width: 15%;
-    }
-}

@@ -1,19 +1,18 @@
-.block-wrap {
-    text-align: center;
-    margin-top: 5%;
+.block-wrap {   
+    
 
     &__box {        
         background-color: rgba(18, 228, 28, 0.9);
         height: 50%;
-        width: 50%;
-        transform: translateX(50%);
+        width: 30%;
+        transform: translateX(110%);        
         padding: 5px;
-        margin-bottom: 5%;
+        margin-top: 5%;
     }
 
     &__title {       
         padding: 5px 5px;
-
+        text-align: center;
     }
 
 }
